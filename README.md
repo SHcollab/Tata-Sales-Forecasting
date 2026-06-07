@@ -50,16 +50,25 @@ To analyze sales trends and develop a forecasting model for future Tata Motors s
 
 **Forecasting Visualizations**
 
+**TM Net Sales**
 ![TM Net Sales](TM_Net_Sales.png)
 
+**TM Train & Test Split**
 ![TM Train Test Split](TM_Train_Test_Split.png)
 
-![TM Test Predictions](TM_Test_Predictions.png)
+**TM Test Predictions**
+![Test Predictions](TM_Test_Predictions.png)
 
-![TM Actual vs Predicted](TM_Actual_vs_Predicted.png)
+**TM Actual vs Predicted**
+![Actual vs Predicted](TM_Actual_vs_Predicted.png)
 
-![TM Future Predictions](TM_Future_Predictions.png)
+**TM Future Predictions**
+![Future Predictions](TM_Future_Predictions.png)
 
-![TM Future Forecast](TM_Future_Forecast.png)
+**TM Future Forecast**
+![Future Forecast](TM_Future_Forecast.png)
+
+
+
 
 
