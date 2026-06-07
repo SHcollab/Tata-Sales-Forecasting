@@ -46,3 +46,17 @@ To analyze sales trends and develop a forecasting model for future Tata Motors s
 - Excel Dataset (.xlsx)
 - Forecasting Documentation (.pdf)
 - Jupyter Notebook (.ipynb)
+
+
+**Forecasting Visualizations**
+
+![TM Sales Trend](tm_sales_trend.png)
+
+![Train Test Split](train_test_split.png)
+
+![Actual vs Predicted](actual_vs_predicted.png)
+
+![Future Forecast](future_forecast.png)
+
+![TM Test Predictions](TM_Test_Predictions.png)
+
